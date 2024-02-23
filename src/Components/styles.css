@@ -1,0 +1,19 @@
+.item-label{
+    display: flex;
+    gap : 20px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.profile-container{
+    height: auto;
+    width: 350px;
+    color:azure;
+    font-size: 2rem;
+    background: rgb(121, 238, 121);
+}
+
+.list-container{
+    list-style: none;
+    margin: 0px;
+}
